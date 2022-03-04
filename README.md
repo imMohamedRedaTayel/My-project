@@ -1,3 +1,3 @@
 # My-project
 
-project Nots
+project Notes
